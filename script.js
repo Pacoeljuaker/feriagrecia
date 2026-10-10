@@ -907,7 +907,7 @@ const PUESTOS_BASE2 = [
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
     productos: [
       { nombre: "Pimentón", precio: 2000, unidad: "3 unidades" },
-      { nombre: "Limon", precio: 1000, unidad: "1.5kg" },
+      { nombre: "Limón", precio: 1000, unidad: "1.5kg" },
       { nombre: "Pepino", precio: 1000, unidad: "3 unidades" }
     ]
   },
@@ -930,9 +930,9 @@ const PUESTOS_BASE2 = [
     color: "#10b981",
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
     productos: [
-      { nombre: "Papá grande", precio: 1200, unidad: "kg" },
-      { nombre: "Papá extra", precio: 1500, unidad: "kg" },
-      { nombre: "Papá chica", precio: 1000, unidad: "kg" }
+      { nombre: "Papa grande", precio: 1200, unidad: "kg" },
+      { nombre: "Papa extra", precio: 1500, unidad: "kg" },
+      { nombre: "Papa chica", precio: 1000, unidad: "kg" }
     ]
   },
   {
@@ -998,13 +998,13 @@ const PUESTOS_BASE2 = [
     productos: [
       { nombre: "Aceitunas", precio: 2500, unidad: "cuarto" },
       { nombre: "Harina tostada", precio: 2000, unidad: "kg" },
-      { nombre: "Manis", precio: 1500, unidad: "cuarto" }
+      { nombre: "Maní", precio: 1500, unidad: "cuarto" }
     ]
   },
   {
     id: 79,
     numero: "Puesto 79",
-    nombre: "Omar Paez",
+    nombre: "Omar Páez",
     categoria: "Frutería & Verdulería",
     icono: "fa-leaf",
     color: "#10b981",
@@ -1070,7 +1070,7 @@ const PUESTOS_BASE2 = [
     productos: [
       { nombre: "Frutilla en agua", precio: 2500, unidad: "1 unidad" },
       { nombre: "Piña en agua", precio: 2500, unidad: "1 unidad" },
-      { nombre: "Arandano en agua", precio: 2500, unidad: "1 unidad" }
+      { nombre: "Arándano en agua", precio: 2500, unidad: "1 unidad" }
     ]
   },
   {
@@ -1121,7 +1121,7 @@ const PUESTOS_BASE2 = [
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
     productos: [
       { nombre: "Palta", precio: 3500, unidad: "kg" },
-      { nombre: "chirimoya", precio: 3500, unidad: "kg" },
+      { nombre: "Chirimoya", precio: 3500, unidad: "kg" },
       { nombre: "Frutilla", precio: 1200, unidad: "kg" }
     ]
   },
