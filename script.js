@@ -1086,21 +1086,11 @@ function openModal(stall) {
           ${stall.numero} • ${stall.categoria}
         </span>
         <h2 class="text-xl font-bold text-slate-100">${stall.nombre}</h2>
-        <p class="text-xs text-slate-300"><i class="fa-solid fa-user-circle mr-1"></i>Atendido por: ${stall.casero}</p>
       </div>
     </div>
 
     <!-- Cuerpo del Modal -->
     <div class="p-5 overflow-y-auto space-y-4 flex-1">
-      
-      <!-- Consejo del Casero -->
-      <div class="bg-slate-900/90 border border-slate-700 p-3.5 rounded-2xl flex gap-3 items-start">
-        <i class="fa-solid fa-comment-dots text-emerald-400 text-lg mt-0.5"></i>
-        <div>
-          <p class="text-xs font-bold text-emerald-400 uppercase tracking-wider">Recomendación del Casero</p>
-          <p class="text-sm text-slate-200 italic mt-0.5">"${stall.consejo}"</p>
-        </div>
-      </div>
 
       <!-- Lista de Productos y Precios -->
       <div>
