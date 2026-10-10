@@ -519,7 +519,7 @@ const PUESTOS_BASE1 = [
   {
     id: 40,
     numero: "Puesto 40",
-    nombre: "Sucasero",
+    nombre: "Su casero",
     categoria: "Pescadería",
     icono: "fa-fish",
     color: "#0284c7",
@@ -895,6 +895,258 @@ const PUESTOS_BASE2 = [
       { nombre: "Camote", precio: 2500, unidad: "kg" },
       { nombre: "Papas", precio: 1700, unidad: "kg" },
       { nombre: "Legumbres", precio: 3500, unidad: "kg" }
+    ]
+  },
+  {
+    id: 71,
+    numero: "Puesto 71",
+    nombre: "Fernando",
+    categoria: "Verdulería",
+    icono: "fa-leaf",
+    color: "#10b981",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Pimentón", precio: 2000, unidad: "3 unidades" },
+      { nombre: "Limon", precio: 1000, unidad: "1.5kg" },
+      { nombre: "Pepino", precio: 1000, unidad: "3 unidades" }
+    ]
+  },
+  {
+    id: 72,
+    numero: "Puesto 72",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 73,
+    numero: "Puesto 73",
+    nombre: "David González",
+    categoria: "Verdulería",
+    icono: "fa-leaf",
+    color: "#10b981",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Papá grande", precio: 1200, unidad: "kg" },
+      { nombre: "Papá extra", precio: 1500, unidad: "kg" },
+      { nombre: "Papá chica", precio: 1000, unidad: "kg" }
+    ]
+  },
+  {
+    id: 74,
+    numero: "Puesto 74",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 75,
+    numero: "Puesto 75",
+    nombre: "Jorta Guerra",
+    categoria: "Abarrotes & Limpieza",
+    icono: "fa-store",
+    color: "#3b82f6",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Trapero", precio: 1000, unidad: "1 unidad" },
+      { nombre: "Paño", precio: 4000, unidad: "1 unidad" },
+      { nombre: "Esponja", precio: 1000, unidad: "5 unidades" }
+    ]
+  },
+  {
+    id: 76,
+    numero: "Puesto 76",
+    nombre: "Donde Las Chiquillas",
+    categoria: "Frutería & Verdulería",
+    icono: "fa-apple-whole",
+    color: "#ef4444",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Frutilla", precio: 1200, unidad: "kg" },
+      { nombre: "Palta", precio: 3800, unidad: "kg" },
+      { nombre: "Plátanos", precio: 1700, unidad: "kg" }
+    ]
+  },
+  {
+    id: 77,
+    numero: "Puesto 77",
+    nombre: "Sara",
+    categoria: "Abarrotes",
+    icono: "fa-store",
+    color: "#3b82f6",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Huevo blanco", precio: 4200, unidad: "1 unidad" },
+      { nombre: "Huevo de color", precio: 6200, unidad: "1 unidad" },
+      { nombre: "Queso", precio: 10000, unidad: "kg" }
+    ]
+  },
+  {
+    id: 78,
+    numero: "Puesto 78",
+    nombre: "Juan Carper",
+    categoria: "Abarrotes & Tradicional",
+    icono: "fa-store",
+    color: "#3b82f6",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Aceitunas", precio: 2500, unidad: "cuarto" },
+      { nombre: "Harina tostada", precio: 2000, unidad: "kg" },
+      { nombre: "Manis", precio: 1500, unidad: "cuarto" }
+    ]
+  },
+  {
+    id: 79,
+    numero: "Puesto 79",
+    nombre: "Omar Paez",
+    categoria: "Frutería & Verdulería",
+    icono: "fa-leaf",
+    color: "#10b981",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Palta", precio: 2500, unidad: "kg" },
+      { nombre: "Tomate", precio: 1500, unidad: "kg" },
+      { nombre: "Plátano", precio: 1800, unidad: "kg" }
+    ]
+  },
+  {
+    id: 80,
+    numero: "Puesto 80",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 81,
+    numero: "Puesto 81",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 82,
+    numero: "Puesto 82",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 83,
+    numero: "Puesto 83",
+    nombre: "Huevos Loop",
+    categoria: "Abarrotes",
+    icono: "fa-store",
+    color: "#3b82f6",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Huevo jumbo", precio: 8000, unidad: "20 unidades" },
+      { nombre: "Huevo super", precio: 7000, unidad: "30 unidades" },
+      { nombre: "Huevo extra", precio: 6500, unidad: "30 unidades" }
+    ]
+  },
+  {
+    id: 84,
+    numero: "Puesto 84",
+    nombre: "Jugos Karen",
+    categoria: "Comida Preparada & Jugos",
+    icono: "fa-cup-straw",
+    color: "#ec4899",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Frutilla en agua", precio: 2500, unidad: "1 unidad" },
+      { nombre: "Piña en agua", precio: 2500, unidad: "1 unidad" },
+      { nombre: "Arandano en agua", precio: 2500, unidad: "1 unidad" }
+    ]
+  },
+  {
+    id: 85,
+    numero: "Puesto 85",
+    nombre: "Alexis",
+    categoria: "Verdulería",
+    icono: "fa-leaf",
+    color: "#10b981",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Espárragos", precio: 1500, unidad: "1 unidad" },
+      { nombre: "Betarraga", precio: 1500, unidad: "1 unidad" },
+      { nombre: "Lechuga", precio: 1000, unidad: "1 unidad" }
+    ]
+  },
+  {
+    id: 86,
+    numero: "Puesto 86",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 87,
+    numero: "Puesto 87",
+    nombre: "Frutos Del País Rey",
+    categoria: "Abarrotes & Legumbres",
+    icono: "fa-store",
+    color: "#3b82f6",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Mote", precio: 900, unidad: "1/2 kg" },
+      { nombre: "Aceitunas", precio: 1500, unidad: "cuarto" },
+      { nombre: "Legumbres", precio: 1800, unidad: "1/2 kg" }
+    ]
+  },
+  {
+    id: 88,
+    numero: "Puesto 88",
+    nombre: "Pascale Andrea",
+    categoria: "Frutería",
+    icono: "fa-apple-whole",
+    color: "#ef4444",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Palta", precio: 3500, unidad: "kg" },
+      { nombre: "chirimoya", precio: 3500, unidad: "kg" },
+      { nombre: "Frutilla", precio: 1200, unidad: "kg" }
+    ]
+  },
+  {
+    id: 89,
+    numero: "Puesto 89",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 90,
+    numero: "Puesto 90",
+    nombre: "Heraldo",
+    categoria: "Frutería & Verdulería",
+    icono: "fa-leaf",
+    color: "#10b981",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Palta", precio: 2500, unidad: "kg" },
+      { nombre: "Tomate", precio: 1200, unidad: "kg" },
+      { nombre: "Plátano", precio: 1700, unidad: "kg" }
     ]
   }
 ];
