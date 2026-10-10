@@ -303,7 +303,7 @@ const PUESTOS_BASE1 = [
     productos: [
       { nombre: "Mote", precio: 1800, unidad: "kg" },
       { nombre: "Cochayullo", precio: 2500, unidad: "1 unidad" },
-      { nombre: "Aceitunas (cuarto)", precio: 1800, unidad: "cuarto" }
+      { nombre: "Aceitunas (cuarto)", precio: 1800, unidad: "250gr" }
     ]
   },
   {
@@ -316,7 +316,7 @@ const PUESTOS_BASE1 = [
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
     productos: [
       { nombre: "Alcachofas", precio: 2000, unidad: "4 unidades" },
-      { nombre: "Zapallo (medio kilo)", precio: 1200, unidad: "0.5kg" },
+      { nombre: "Zapallo (medio kilo)", precio: 1200, unidad: "1/2 kg" },
       { nombre: "Espárragos", precio: 2000, unidad: "kg" }
     ]
   },
@@ -570,7 +570,7 @@ const PUESTOS_BASE1 = [
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
     productos: [
       { nombre: "Rúcula", precio: 1000, unidad: "150gr" },
-      { nombre: "Champiñón", precio: 2500, unidad: "0.25kg" },
+      { nombre: "Champiñón", precio: 2500, unidad: "250gr" },
       { nombre: "Berro", precio: 1000, unidad: "100gr" }
     ]
   },
@@ -637,7 +637,7 @@ const PUESTOS_BASE1 = [
     color: "#10b981",
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
     productos: [
-      { nombre: "Espárragos", precio: 1000, unidad: "0.5kg" },
+      { nombre: "Espárragos", precio: 1000, unidad: "1/2kg" },
       { nombre: "Cebolla", precio: 400, unidad: "1 unidad" },
       { nombre: "Costina", precio: 1500, unidad: "1 unidad" }
     ]
@@ -674,7 +674,7 @@ const PUESTOS_BASE2 = [
     color: "#10b981",
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
     productos: [
-      { nombre: "Limón", precio: 1000, unidad: "0.5kg" },
+      { nombre: "Limón", precio: 1000, unidad: "1/2kg" },
       { nombre: "Zapallo", precio: 2000, unidad: "3 unidades" },
       { nombre: "Tomate", precio: 1300, unidad: "kg" }
     ]
@@ -785,7 +785,7 @@ const PUESTOS_BASE2 = [
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
     productos: [
       { nombre: "Papá", precio: 1600, unidad: "kg" },
-      { nombre: "Legumbres", precio: 1800, unidad: "0.5kg" },
+      { nombre: "Legumbres", precio: 1800, unidad: "1/2kg" },
       { nombre: "Miel", precio: 6900, unidad: "kg" }
     ]
   },
