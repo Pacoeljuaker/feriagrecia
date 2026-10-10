@@ -1148,6 +1148,195 @@ const PUESTOS_BASE2 = [
       { nombre: "Tomate", precio: 1200, unidad: "kg" },
       { nombre: "Plátano", precio: 1700, unidad: "kg" }
     ]
+  },
+  {
+    id: 91,
+    numero: "Puesto 91",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 92,
+    numero: "Puesto 92",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 93,
+    numero: "Puesto 93",
+    nombre: "Carlos Aradán",
+    categoria: "Frutería & Verdulería",
+    icono: "fa-apple-whole",
+    color: "#ef4444",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Limón", precio: 1000, unidad: "2 kg" },
+      { nombre: "Cherry", precio: 2500, unidad: "kg" },
+      { nombre: "Tomate", precio: 2000, unidad: "kg" }
+    ]
+  },
+  {
+    id: 94,
+    numero: "Puesto 94",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 95,
+    numero: "Puesto 95",
+    nombre: "Sin Nombre",
+    categoria: "Frutería & Verdulería",
+    icono: "fa-leaf",
+    color: "#10b981",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Tomate", precio: 1300, unidad: "kg" },
+      { nombre: "Limón", precio: 700, unidad: "kg" }
+    ]
+  },
+  {
+    id: 96,
+    numero: "Puesto 96",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 97,
+    numero: "Puesto 97",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 98,
+    numero: "Puesto 98",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 99,
+    numero: "Puesto 99",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 100,
+    numero: "Puesto 100",
+    nombre: "Rafael Barrales",
+    categoria: "Frutería & Verdulería",
+    icono: "fa-leaf",
+    color: "#10b981",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Tomate", precio: 1400, unidad: "kg" },
+      { nombre: "Pimentón", precio: 1500, unidad: "1 unidad" },
+      { nombre: "Limón", precio: 400, unidad: "kg" }
+    ]
+  },
+  {
+    id: 101,
+    numero: "Puesto 101",
+    nombre: "Nicol",
+    categoria: "Frutería & Comida",
+    icono: "fa-apple-whole",
+    color: "#ef4444",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Frutilla", precio: 1000, unidad: "kg" },
+      { nombre: "Plátano", precio: 1600, unidad: "kg" },
+      { nombre: "Sandía", precio: 1000, unidad: "1 unidad" }
+    ]
+  },
+  {
+    id: 102,
+    numero: "Puesto 102",
+    nombre: "Sin Nombre",
+    categoria: "Verdulería",
+    icono: "fa-leaf",
+    color: "#10b981",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Papas Serena", precio: 3200, unidad: "2 kg" },
+      { nombre: "Papas nuevas", precio: 2400, unidad: "3 kg" },
+      { nombre: "Papas", precio: 4000, unidad: "3 kg" }
+    ]
+  },
+  {
+    id: 103,
+    numero: "Puesto 103",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 104,
+    numero: "Puesto 104",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 105,
+    numero: "Puesto 105",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 106,
+    numero: "Puesto 106",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 107,
+    numero: "Puesto 107",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
   }
 ];
 
