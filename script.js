@@ -1,7 +1,7 @@
 const FIN_CALLE  = [-33.467032, -70.560823]; // Inicio del tramo
 const INICIO_CALLE     = [-33.471722, -70.562747]; // Fin del tramo
-const INICIO_NUEVA_CALLE = [-33.471666, -70.562910]; // Punto inicial (Norte)
-const FIN_NUEVA_CALLE    = [-33.466970, -70.560980]; // Punto final (Sur)
+const FIN_NUEVA_CALLE = [-33.471666, -70.562910]; // Punto inicial (Norte)
+const INICIO_NUEVA_CALLE    = [-33.466970, -70.560980]; // Punto final (Sur)
 
 // Función que calcula las coordenadas automáticamente para N puestos
 function generarCoordenadasCalle(inicio, fin, puestos) {
