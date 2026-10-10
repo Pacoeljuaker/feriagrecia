@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prototipo</title>
+  
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  
+  <!-- Leaflet CSS & JS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-slate-900 text-slate-100 font-['Outfit',sans-serif] h-screen flex flex-col overflow-hidden">
+
+  <!-- Header -->
+  <header class="bg-slate-800/95 border-b border-slate-700/80 px-4 py-3 flex items-center justify-between z-10 shadow-lg backdrop-blur">
+    <div class="flex items-center gap-3">
+      <div class="w-9 h-9 rounded-xl bg-emerald-600 flex items-center justify-center text-white font-bold text-lg shadow-md shadow-emerald-500/30">
+        <i class="fa-solid fa-store"></i>
+      </div>
+      <div>
+        <h1 class="text-base font-bold text-slate-100 leading-tight">
+          Feria Grecia <span class="text-xs text-emerald-400 font-normal border border-emerald-500/30 bg-emerald-500/10 px-2 py-0.5 rounded-full ml-1">Ictinos</span>
+        </h1>
+      </div>
+    </div>
+    <div class="text-xs text-slate-400 bg-slate-700/50 px-3 py-1.5 rounded-xl border border-slate-600 flex items-center gap-2">
+      <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span> Este es un prototipo
+    </div>
+  </header>
+
+  <!-- Contenedor Mapa -->
+  <main class="flex-1 relative w-full h-full">
+    <div id="map" class="w-full h-full"></div>
+
+    <!-- Indicador Flotante -->
+    <div class="absolute bottom-5 left-5 z-[1000] bg-slate-900/90 border border-slate-700 p-3 rounded-2xl shadow-xl backdrop-blur max-w-xs hidden sm:block">
+      <p class="text-xs text-slate-300 font-medium flex items-center gap-2 mb-1">
+        <i class="fa-solid fa-circle-info text-emerald-400"></i> Tip:
+      </p>
+      <p class="text-[11px] text-slate-400 leading-relaxed">
+        Presiona el icono en el mapa para desplegar la información del puesto con sus productos y precios.
+      </p>
+    </div>
+  </main>
+
+  <!-- Modal Detallado del Puesto (z-[9999] para quedar SIEMPRE por encima del mapa) -->
+  <div id="stall-modal" class="fixed inset-0 bg-slate-950/80 backdrop-blur-sm z-[9999] hidden flex items-center justify-center p-4">
+    <div class="bg-slate-800 border border-slate-700 rounded-3xl max-w-lg w-full max-h-[85vh] flex flex-col shadow-2xl overflow-hidden animate-scale-up">
+      <!-- Contenido inyectado con JavaScript -->
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
