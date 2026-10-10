@@ -646,364 +646,256 @@ const PUESTOS_BASE1 = [
 
 const PUESTOS_BASE2 = [
   {
-    id: 31,
-    numero: "Puesto 31",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 32,
-    numero: "Puesto 32",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 33,
-    numero: "Puesto 33",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 34,
-    numero: "Puesto 34",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 35,
-    numero: "Puesto 35",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 36,
-    numero: "Puesto 36",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 37,
-    numero: "Puesto 37",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 38,
-    numero: "Puesto 38",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 39,
-    numero: "Puesto 39",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 40,
-    numero: "Puesto 40",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 41,
-    numero: "Puesto 41",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 42,
-    numero: "Puesto 42",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 43,
-    numero: "Puesto 43",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 44,
-    numero: "Puesto 44",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 45,
-    numero: "Puesto 45",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 46,
-    numero: "Puesto 46",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 47,
-    numero: "Puesto 47",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 48,
-    numero: "Puesto 48",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 49,
-    numero: "Puesto 49",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
-    id: 50,
-    numero: "Puesto 50",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
-    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
-  },
-  {
     id: 51,
     numero: "Puesto 51",
     nombre: "Pendiente",
-  
     categoria: "Pendiente",
     icono: "fa-basket-shopping",
-    color: "#8b5cf6",
+    color: "#64748b",
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
     productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
   },
   {
     id: 52,
     numero: "Puesto 52",
     nombre: "Pendiente",
-  
     categoria: "Pendiente",
     icono: "fa-basket-shopping",
-    color: "#8b5cf6",
+    color: "#64748b",
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
     productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
   },
   {
     id: 53,
     numero: "Puesto 53",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
+    nombre: "Astrid",
+    categoria: "Verdulería",
+    icono: "fa-leaf",
+    color: "#10b981",
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+    productos: [
+      { nombre: "Limón", precio: 1000, unidad: "0.5kg" },
+      { nombre: "Zapallo", precio: 2000, unidad: "3 unidades" },
+      { nombre: "Tomate", precio: 1300, unidad: "kg" }
+    ]
   },
   {
     id: 54,
     numero: "Puesto 54",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
+    nombre: "Juan Andrés",
+    categoria: "Frutería & Verdulería",
+    icono: "fa-apple-whole",
+    color: "#ef4444",
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+    productos: [
+      { nombre: "Tomate", precio: 1300, unidad: "kg" },
+      { nombre: "Palta", precio: 2500, unidad: "kg" },
+      { nombre: "Pera", precio: 1300, unidad: "kg" }
+    ]
   },
   {
     id: 55,
     numero: "Puesto 55",
     nombre: "Pendiente",
-  
     categoria: "Pendiente",
     icono: "fa-basket-shopping",
-    color: "#8b5cf6",
+    color: "#64748b",
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
     productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
   },
   {
     id: 56,
     numero: "Puesto 56",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
+    nombre: "Antonio",
+    categoria: "Abarrotes & Legumbres",
+    icono: "fa-seedling",
+    color: "#84cc16",
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+    productos: [
+      { nombre: "Poroto", precio: 3000, unidad: "kg" },
+      { nombre: "Lentejas", precio: 3500, unidad: "kg" },
+      { nombre: "Papas", precio: 1200, unidad: "kg" }
+    ]
   },
   {
     id: 57,
     numero: "Puesto 57",
-    nombre: "Pendiente",
-  
-    categoria: "Pendiente",
-    icono: "fa-basket-shopping",
-    color: "#8b5cf6",
+    nombre: "Isabel cabrera",
+    categoria: "Verdulería",
+    icono: "fa-leaf",
+    color: "#10b981",
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
-    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+    productos: [
+      { nombre: "Ensalada", precio: 1000, unidad: "1 unidad" },
+      { nombre: "Ají pebre", precio: 1000, unidad: "1 unidad" },
+      { nombre: "Hojas de apio", precio: 600, unidad: "1 unidad" }
+    ]
   },
   {
     id: 58,
     numero: "Puesto 58",
     nombre: "Pendiente",
-  
     categoria: "Pendiente",
     icono: "fa-basket-shopping",
-    color: "#8b5cf6",
+    color: "#64748b",
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
     productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
   },
   {
     id: 59,
     numero: "Puesto 59",
     nombre: "Pendiente",
-  
     categoria: "Pendiente",
     icono: "fa-basket-shopping",
-    color: "#8b5cf6",
+    color: "#64748b",
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
     productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
   },
   {
     id: 60,
     numero: "Puesto 60",
     nombre: "Pendiente",
-  
     categoria: "Pendiente",
     icono: "fa-basket-shopping",
-    color: "#8b5cf6",
+    color: "#64748b",
     imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
-    
     productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 61,
+    numero: "Puesto 61",
+    nombre: "Eduardo Escobar",
+    categoria: "Plantas & Jardín",
+    icono: "fa-seedling",
+    color: "#84cc16",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Flores temporada", precio: 1000, unidad: "1 unidad" },
+      { nombre: "Ruta", precio: 1000, unidad: "1 unidad" },
+      { nombre: "Planta de tomate", precio: 1000, unidad: "1 unidad" }
+    ]
+  },
+  {
+    id: 62,
+    numero: "Puesto 62",
+    nombre: "Casero las papas",
+    categoria: "Verdulería & Legumbres",
+    icono: "fa-leaf",
+    color: "#10b981",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Papá", precio: 1600, unidad: "kg" },
+      { nombre: "Legumbres", precio: 1800, unidad: "0.5kg" },
+      { nombre: "Miel", precio: 6900, unidad: "kg" }
+    ]
+  },
+  {
+    id: 63,
+    numero: "Puesto 63",
+    nombre: "sergio",
+    categoria: "Snacks & Bebidas",
+    icono: "fa-cookie-bite",
+    color: "#f97316",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Palomitos", precio: 1400, unidad: "1 unidad" },
+      { nombre: "Bebidas", precio: 1500, unidad: "1 unidad" },
+      { nombre: "Energéticas", precio: 1500, unidad: "1 unidad" }
+    ]
+  },
+  {
+    id: 64,
+    numero: "Puesto 64",
+    nombre: "Pendiente",
+    categoria: "Pendiente",
+    icono: "fa-basket-shopping",
+    color: "#64748b",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [{ nombre: "1", precio: 1000, unidad: "kg" }]
+  },
+  {
+    id: 65,
+    numero: "Puesto 65",
+    nombre: "caterin Saavedra",
+    categoria: "Frutería",
+    icono: "fa-apple-whole",
+    color: "#ef4444",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Manzana", precio: 1000, unidad: "kg" },
+      { nombre: "Naranja", precio: 800, unidad: "kg" },
+      { nombre: "Mandarina", precio: 2000, unidad: "kg" }
+    ]
+  },
+  {
+    id: 66,
+    numero: "Puesto 66",
+    nombre: "Felipe atiman",
+    categoria: "Frutería",
+    icono: "fa-apple-whole",
+    color: "#ef4444",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Palta", precio: 3500, unidad: "kg" },
+      { nombre: "Mango", precio: 1600, unidad: "1 unidad" },
+      { nombre: "Chirimoya", precio: 3500, unidad: "kg" }
+    ]
+  },
+  {
+    id: 67,
+    numero: "Puesto 67",
+    nombre: "Carolina Zuñiga",
+    categoria: "Verdulería",
+    icono: "fa-leaf",
+    color: "#10b981",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Zanahoria", precio: 1600, unidad: "kg" },
+      { nombre: "Limon", precio: 600, unidad: "kg" },
+      { nombre: "bandejas de verdura", precio: 1000, unidad: "1 unidad" }
+    ]
+  },
+  {
+    id: 68,
+    numero: "Puesto 68",
+    nombre: "distribuidora de huevitos don José",
+    categoria: "Abarrotes",
+    icono: "fa-store",
+    color: "#3b82f6",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Huevo jumbo", precio: 6000, unidad: "1 unidad" },
+      { nombre: "Extra blanco", precio: 5900, unidad: "1 unidad" },
+      { nombre: "Super", precio: 6900, unidad: "1 unidad" }
+    ]
+  },
+  {
+    id: 69,
+    numero: "Puesto 69",
+    nombre: "Frutas Josefa Ignacia",
+    categoria: "Frutería",
+    icono: "fa-apple-whole",
+    color: "#ef4444",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Chirimoya", precio: 3500, unidad: "kg" },
+      { nombre: "Tomate", precio: 700, unidad: "kg" },
+      { nombre: "Frutilla", precio: 1200, unidad: "kg" }
+    ]
+  },
+  {
+    id: 70,
+    numero: "Puesto 70",
+    nombre: "Lina flores",
+    categoria: "Verdulería & Legumbres",
+    icono: "fa-leaf",
+    color: "#10b981",
+    imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=500&q=80",
+    productos: [
+      { nombre: "Camote", precio: 2500, unidad: "kg" },
+      { nombre: "Papas", precio: 1700, unidad: "kg" },
+      { nombre: "Legumbres", precio: 3500, unidad: "kg" }
+    ]
   }
 ];
 
