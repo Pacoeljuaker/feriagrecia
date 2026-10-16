@@ -1,6 +1,6 @@
 const FIN_CALLE  = [-33.468226, -70.561343]; // Inicio del tramo
 const INICIO_CALLE     = [-33.471722, -70.562747]; // Fin del tramo
-const FIN_NUEVA_CALLE = [-33.471666, -70.562910]; // Punto inicial (Norte)
+const FIN_NUEVA_CALLE = [-33.471701, -70.562894]; // Punto inicial (Norte)
 const INICIO_NUEVA_CALLE    = [-33.468232, -70.561512]; // Punto final (Sur)
 
 // Función que calcula las coordenadas automáticamente para N puestos
